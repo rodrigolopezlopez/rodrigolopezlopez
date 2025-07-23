@@ -10,11 +10,17 @@ My toolset includes Python, SQL, R, Scala, Google Cloud, AWS, Databricks, and bi
 
 I bridge data science and business strategy partnering cross-functionally to define KPIs, automate insights, and influence decision-making across teams. From building ETL pipelines to delivering real-time dashboards (Looker, Tableau, Quicksight), I turn data into clear, compelling narratives.
 
-Currently, I'm focused on deepening my expertise in advanced statistics and applied machine learning to drive even stronger business outcomes at scale.
-
 **Top skills**
 
 Statistics • Data Analytics • SQL • Experimental Design • Business Strategy • Data Modeling • Machine Learning
+
+### 🌱 Currently Learning & Working On
+
+I'm currently focused on deepening my expertise in advanced statistics and applied machine learning to drive even stronger business outcomes at scale. I am also helping marketing teams to optimize performance through data-driven insights.
+
+### 🎮 Hobbies & Interests
+
+I love swimming, playing video games, collecting Funko Pops, reading, anime, and traveling.
 
 ### 📫 How to reach me
 
