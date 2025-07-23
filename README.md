@@ -1,4 +1,4 @@
-# Hi there 👋, my name is [Your Name]!
+# Hi there 👋, my name is Rodrigo!
 
 ### About
 
