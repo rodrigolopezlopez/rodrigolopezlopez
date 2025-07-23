@@ -14,13 +14,13 @@ I bridge data science and business strategy partnering cross-functionally to def
 
 Statistics • Data Analytics • SQL • Experimental Design • Business Strategy • Data Modeling • Machine Learning
 
-### 🌱 Currently Learning & Working On
+### 🌱 Currently Working On
 
-I'm currently focused on deepening my expertise in advanced statistics and applied machine learning to drive even stronger business outcomes at scale. I am also helping marketing teams to optimize performance through data-driven insights.
+My current focus is on deepening my expertise in advanced statistics and applied machine learning to drive stronger business outcomes. I am actively collaborating with marketing teams to optimize performance and improve decision-making through data-driven insights.
 
 ### 🎮 Hobbies & Interests
 
-I love swimming, playing video games, collecting Funko Pops, reading, anime, and traveling.
+When I'm not coding, I enjoy a variety of activities including swimming, competitive video games, collecting Funko Pops, reading, watching anime, and exploring new places through travel.
 
 ### 📫 How to reach me
 
