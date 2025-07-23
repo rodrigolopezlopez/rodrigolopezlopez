@@ -1,18 +1,20 @@
 # Hi there 👋, my name is [Your Name]!
 
-### 🌱 About me
+### About
 
-* **What drives me**
+**Senior Business Analyst | Analytics & Strategy | LATAM Experience**
 
-[Write a short paragraph about your passion, what you do, and your goals. For example: "A deep passion for software development and its potential to solve complex problems. My goal is to build impactful applications that help people and businesses succeed."]
+I'm a data professional with a strategic mindset and hands-on expertise in analytics, statistical modeling, and experimentation. I specialize in turning complex data into business decisions that drive growth, efficiency, and measurable impact.
 
-* **What I am doing now**
+My toolset includes Python, SQL, R, Scala, Google Cloud, AWS, Databricks, and big data pipelines. I apply techniques like regression, causal inference, clustering, classification, and A/B testing to solve problems across user acquisition, engagement, retention, and monetization.
 
-[Describe your current activities. For example: "Currently working as a Senior Software Engineer at [Your Company]." or "Currently completing a Bachelor's in Computer Science at [Your University]."]
+I bridge data science and business strategy partnering cross-functionally to define KPIs, automate insights, and influence decision-making across teams. From building ETL pipelines to delivering real-time dashboards (Looker, Tableau, Quicksight), I turn data into clear, compelling narratives.
 
-* **🤔 Fun fact**
+Currently, I'm focused on deepening my expertise in advanced statistics and applied machine learning to drive even stronger business outcomes at scale.
 
-[Share an interesting fact about yourself. For example: "I love hiking and have trekked [Number] mountains." or "Passionate about photography and have been taking photos for [Number] years."]
+**Top skills**
+
+Statistics • Data Analytics • SQL • Experimental Design • Business Strategy • Data Modeling • Machine Learning
 
 ### 📫 How to reach me
 
@@ -29,13 +31,19 @@
 #### Programming
 
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](https://img.shields.io/badge/SQL-4479A5.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
 
-#### ML/DL
+#### Cloud & Big Data
+
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Looker](https://img.shields.io/badge/Looker-34a853.svg?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+#### ML/DL & Analytics
 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
