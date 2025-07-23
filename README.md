@@ -24,7 +24,7 @@ Statistics • Data Analytics • SQL • Experimental Design • Business Strat
 
 * **[Your LinkedIn Profile]**
     
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[Your LinkedIn Profile URL]](https://www.linkedin.com/in/rodrigolopezlopez/))
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigolopezlopez/))
 
 ### 💻 What I know
 
