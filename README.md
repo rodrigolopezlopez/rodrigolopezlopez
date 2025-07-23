@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Rodrigo!
+´# Hi there 👋, my name is Rodrigo!
 
 ### About
 
@@ -20,11 +20,11 @@ Statistics • Data Analytics • SQL • Experimental Design • Business Strat
 
 * **[Your Email]**
     
-    [your.email@example.com](mailto:your.email@example.com)
+    [rodrigo.lopez.lopez.unam@gmail.com](mailto:rodrigo.lopez.lopez.unam@gmail.com)
 
 * **[Your LinkedIn Profile]**
     
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[Your LinkedIn Profile URL]](https://www.linkedin.com/in/rodrigolopezlopez/))
 
 ### 💻 What I know
 
