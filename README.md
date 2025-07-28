@@ -52,6 +52,7 @@ I enjoy a variety of activities including swimming, competitive video games, col
 #### ML/DL & Analytics
 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-10C072.svg?style=for-the-badge&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
