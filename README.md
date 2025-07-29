@@ -2,7 +2,7 @@
 
 ### About
 
-**Senior Business Analyst | Analytics & Strategy | LATAM Experience**
+**Senior Business Analyst | Data Scientist | Analytics & Strategy | LATAM Experience**
 
 I'm a data professional with a strategic mindset and hands-on expertise in analytics, statistical modeling, and experimentation. I specialize in turning complex data into business decisions that drive growth, efficiency, and measurable impact.
 
