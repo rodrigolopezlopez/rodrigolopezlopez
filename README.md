@@ -12,7 +12,7 @@ I bridge data science and business strategy partnering cross-functionally to def
 
 **Top skills**
 
-Statistics • Data Analytics • SQL • Experimental Design • Business Strategy • Data Modeling • Machine Learning
+Statistics • Data Analytics • SQL • Python • Experimental Design • Business Strategy • Data Modeling • Machine Learning
 
 ### 🌱 Currently Working On
 
