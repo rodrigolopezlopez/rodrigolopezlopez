@@ -57,4 +57,3 @@ I enjoy a variety of activities including swimming, video games, collecting Funk
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-824F75.svg?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
