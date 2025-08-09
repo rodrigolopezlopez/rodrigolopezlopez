@@ -20,7 +20,7 @@ My current focus is on deepening my expertise in advanced statistics and applied
 
 ### 🎮 Hobbies & Interests
 
-I enjoy a variety of activities including swimming, competitive video games, collecting Funko Pops, reading, watching anime, and exploring new places through travel.
+I enjoy a variety of activities including swimming, video games, collecting Funko Pops, reading, watching anime, and exploring new places through travel.
 
 ### 📫 How to reach me
 
