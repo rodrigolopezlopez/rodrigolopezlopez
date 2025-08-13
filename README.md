@@ -8,7 +8,7 @@ I'm a data professional with a strategic mindset and hands-on expertise in analy
 
 My toolset includes Python, SQL, R, Scala, Google Cloud, AWS, Databricks, and big data pipelines. I apply techniques like regression, causal inference, clustering, classification, and A/B testing to solve problems across user acquisition, engagement, retention, and monetization.
 
-I bridge data science and business strategy partnering cross-functionally to define KPIs, automate insights, and influence decision-making across teams. From building ETL pipelines to delivering real-time dashboards (Looker, Tableau, Quicksight), I turn data into clear, compelling narratives.
+I bridge data science and business strategy partnering cross-functionally to define KPIs, automate insights, and influence decision-making across teams. From building ETL pipelines to delivering real-time dashboards (Looker, Quicksight), I turn data into clear, compelling narratives.
 
 **Top skills**
 
