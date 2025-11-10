@@ -16,7 +16,7 @@ Statistics • Data Analytics • SQL • Python • Experimental Design • Bus
 
 ### 🌱 Currently Working On
 
-My current focus is on deepening my expertise in advanced statistics and applied machine learning to drive stronger business outcomes. I am actively collaborating with marketing teams to optimize performance and improve decision-making through data-driven insights.
+My current focus is on deepening my expertise in advanced statistics and applied machine learning to drive stronger business outcomes.
 
 ### 🎮 Hobbies & Interests
 
