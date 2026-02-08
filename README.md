@@ -4,19 +4,21 @@
 
 **Data Operations | Data Scientist | Analytics & Strategy | LATAM Experience**
 
-I'm a data professional with a strategic mindset and hands-on expertise in analytics, statistical modeling, and experimentation. I specialize in turning complex data into business decisions that drive growth, efficiency, and measurable impact.
+I’m a data professional with a strong analytics foundation and a clear focus on applied machine learning and experimentation. I work at the intersection of data science, analytics, and business strategy, turning complex data into decisions that drive measurable growth and operational efficiency.
 
-My toolset includes Python, SQL, R, Scala, Google Cloud, AWS, Databricks, and big data pipelines. I apply techniques like regression, causal inference, clustering, classification, and A/B testing to solve problems across user acquisition, engagement, retention, and monetization.
+My experience spans statistical modeling, causal inference, and experimentation. I apply techniques such as regression, forecasting, clustering, classification, and A/B testing to problems across user acquisition, engagement, retention, and monetization.
 
-I bridge data science and business strategy partnering cross-functionally to define KPIs, automate insights, and influence decision-making across teams. From building ETL pipelines to delivering real-time dashboards (Looker, Quicksight), I turn data into clear, compelling narratives.
+Technically, I work across modern data and ML stacks using Python, SQL, Scala, R, and Ruby. I build and deploy models on Google Cloud (Vertex AI) and AWS, develop scalable pipelines with Databricks, and write production-level analytical and ML code using best engineering practices, including unit testing, CI/CD pipelines, and Git-based workflows.
+
+I partner closely with Product, Engineering, and Marketing teams to define KPIs, automate analyses, and translate complex findings into clear, actionable narratives that influence decisions at scale.
 
 **Top skills**
 
-Statistics • Data Analytics • SQL • Python • Experimental Design • Business Strategy • Data Modeling • Machine Learning
+Statistics • Data Analytics • Vertex AI • SQL • Python • Experimental Design • Business Strategy • Data Modeling • Machine Learning 
 
 ### 🌱 Currently Working On
 
-My current focus is on deepening my expertise in advanced statistics and applied machine learning to drive stronger business outcomes.
+Currently, I’m deepening my expertise in advanced statistics and applied machine learning, with the goal of building robust, scalable solutions that move beyond analysis and create real-world impact.
 
 ### 🎮 Hobbies & Interests
 
