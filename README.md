@@ -2,7 +2,7 @@
 
 ### About
 
-**Data Analytics @ Stripe | Statistical Modeling & Experimentation | LATAM Experience**
+**Data Analytics @ Stripe | Statistical Modeling & Experimentation | GLOBAL Experience**
 
 I’m a data professional with a strong analytics foundation and a clear focus on applied machine learning and experimentation. I work at the intersection of data science, analytics, and business strategy, turning complex data into decisions that drive measurable growth and operational efficiency.
 
