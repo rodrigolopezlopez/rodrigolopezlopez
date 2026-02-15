@@ -6,11 +6,11 @@
 
 I’m a data professional with a strong analytics foundation and a clear focus on applied machine learning and experimentation. I work at the intersection of data science, analytics, and business strategy, turning complex data into decisions that drive measurable growth and operational efficiency.
 
-My experience spans statistical modeling, causal inference, and experimentation. I apply techniques such as regression, forecasting, clustering, classification, and A/B testing to problems across user acquisition, engagement, retention, and monetization.
+My experience spans statistical modeling, causal inference, and experimentation. I apply techniques such as regression, forecasting, clustering, classification, and experimental frameworks (A/B testing, Switchback, and Geo-experiments) to problems across user acquisition, engagement, retention, and monetization.
 
-Technically, I work across modern data and ML stacks using Python, SQL, Scala, R, and Ruby. I build and deploy models on Google Cloud (Vertex AI) and AWS, develop scalable pipelines with Databricks, and write production-level analytical and ML code using best engineering practices, including unit testing, CI/CD pipelines, and Git-based workflows.
+Technically, I bridge the gap between Data Science and Software Engineering, I work across modern data and ML stacks using Python, SQL, Scala, R, and Ruby. I build and deploy models on Google Cloud (Vertex AI) and AWS(SageMaker), develop scalable pipelines with Databricks, and write production-level analytical and ML code using best engineering practices, including unit testing, CI/CD pipelines, and Git-based workflows.
 
-I partner closely with Product, Engineering, and Marketing teams to define KPIs, automate analyses, and translate complex findings into clear, actionable narratives that influence decisions at scale.
+I partner closely with Product, Engineering, and Marketing teams to define KPIs, create robust statistical models, design experiments, automate analyses, and translate complex findings into clear, actionable narratives that influence decisions at scale.
 
 **Top skills**
 
