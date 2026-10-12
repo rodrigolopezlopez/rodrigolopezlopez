@@ -2,19 +2,17 @@
 
 ### About
 
-**Data Scientist at Google Gemini | Statistical Modeling & Experimentation | Global Experience**
+**Data Scientist at Google | Causal Inference, Experimentation & Econometrics**
 
-I’m a data professional with a strong analytics foundation and a clear focus on applied machine learning and experimentation. I work at the intersection of data science, analytics, and business strategy, turning complex data into decisions that drive measurable growth and operational efficiency.
+I am a Data Scientist with a Computer Engineering background and experience driving growth, payments, and marketing science across Google, Stripe, and Uber.
 
-My experience spans statistical modeling, causal inference, and experimentation. I apply techniques such as regression, forecasting, clustering, classification, and experimental frameworks (A/B testing, Switchback, and Geo-experiments) to problems across user acquisition, engagement, retention, and monetization.
+I specialize in causal inference, experimentation, and econometric modeling, using A/B testing, Geo-experiments (MMT), Conversion Lift, and Marketing Mix Modeling (MMM) to measure incrementality and optimize multi-million-dollar investments at scale.
 
-Technically, I bridge the gap between Data Science and Software Engineering, I work across modern data and ML stacks using Python, SQL, Scala, R, and Ruby. I build and deploy models on Google Cloud (Vertex AI) and AWS (SageMaker), develop scalable pipelines with Databricks, and write production-level analytical and ML code using best engineering practices, including unit testing, CI/CD pipelines, and Git-based workflows.
-
-I partner closely with Product, Engineering, and Marketing teams to define KPIs, create robust statistical models, design experiments, automate analyses, and translate complex findings into clear, actionable narratives that influence decisions at scale.
+Combining Data Science with Software Engineering, I build production data pipelines, statistical models, and AI agents using Python, SQL, and Spark, translating complex data into clear strategy across Product, Engineering, and Marketing.
 
 **Top skills**
 
-Statistics • Data Analytics • Vertex AI • SQL • Python • Experimental Design • Business Strategy • Data Modeling • Machine Learning 
+Statistics • Data Analytics • SQL • Python • Experimental Design • Business Strategy • Data Modeling • Machine Learning 
 
 ### 🌱 Currently Working On
 
